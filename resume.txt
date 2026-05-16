@@ -1,0 +1,2 @@
+자격증: 2025년 cospro c++ 3급 취득, 2026년 cospro c++ 2급 취득.
+사용기술: C++, C#, Python, Javascript, MySQL, Vercel, Figma.
